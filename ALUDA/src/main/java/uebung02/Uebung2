@@ -1,0 +1,11 @@
+2b)	2=3
+	3=7
+	4=15
+	5=31
+	6=63
+	7=127
+2c) 2^n-1
+2d) 2^64-1*10s --> ca. 5,8*10^12
+2e) 1 Million Scheibenbewegungen <=> 10^6 --> log (10^6)
+30 Tage* 24 Stunden* 60 Minuten * 60 Sekunden = ld (2592000 Sek *10^6 Scheiben) = 41 Scheiben 
+ 

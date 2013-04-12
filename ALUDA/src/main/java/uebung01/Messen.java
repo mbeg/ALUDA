@@ -76,7 +76,7 @@ public class Messen {
 	}
 
 	/**
-	 * Algorithmus hat die Komplexitätsklasse O(n²)
+	 * Algorithmus hat die Komplexitätsklasse O(n²)?
 	 * 
 	 * @param a
 	 */
